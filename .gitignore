@@ -1,0 +1,5 @@
+.ccls-cache
+.projectile
+bin/*
+build/*
+compile_commands.json
